@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "33965675312",
+    "project_id": "taamm-1726f",
+    "storage_bucket": "taamm-1726f.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:33965675312:android:699f72f5e69deb2cbaaef5",
+        "android_client_info": {
+          "package_name": "com.example.taam_app"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "33965675312-8vqfuic74gpiujqon2s2p2i73csmg3gq.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyC_MInpSR13P1QVGOcj8N7EQQWR8v7zKaQ"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "33965675312-8vqfuic74gpiujqon2s2p2i73csmg3gq.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
